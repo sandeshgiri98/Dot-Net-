@@ -1,0 +1,15 @@
+C:\Users\sande\source\repos\SWSCBasic\SWSCBasic\bin\Debug\net8.0\SWSCBasic.exe
+C:\Users\sande\source\repos\SWSCBasic\SWSCBasic\bin\Debug\net8.0\SWSCBasic.deps.json
+C:\Users\sande\source\repos\SWSCBasic\SWSCBasic\bin\Debug\net8.0\SWSCBasic.runtimeconfig.json
+C:\Users\sande\source\repos\SWSCBasic\SWSCBasic\bin\Debug\net8.0\SWSCBasic.dll
+C:\Users\sande\source\repos\SWSCBasic\SWSCBasic\bin\Debug\net8.0\SWSCBasic.pdb
+C:\Users\sande\source\repos\SWSCBasic\SWSCBasic\obj\Debug\net8.0\SWSCBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\source\repos\SWSCBasic\SWSCBasic\obj\Debug\net8.0\SWSCBasic.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\SWSCBasic\SWSCBasic\obj\Debug\net8.0\SWSCBasic.AssemblyInfo.cs
+C:\Users\sande\source\repos\SWSCBasic\SWSCBasic\obj\Debug\net8.0\SWSCBasic.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\SWSCBasic\SWSCBasic\obj\Debug\net8.0\SWSCBasic.dll
+C:\Users\sande\source\repos\SWSCBasic\SWSCBasic\obj\Debug\net8.0\refint\SWSCBasic.dll
+C:\Users\sande\source\repos\SWSCBasic\SWSCBasic\obj\Debug\net8.0\SWSCBasic.pdb
+C:\Users\sande\source\repos\SWSCBasic\SWSCBasic\obj\Debug\net8.0\SWSCBasic.genruntimeconfig.cache
+C:\Users\sande\source\repos\SWSCBasic\SWSCBasic\obj\Debug\net8.0\ref\SWSCBasic.dll
+C:\Users\sande\source\repos\SWSCBasic\SWSCBasic\bin\Debug\net8.0\SWSCBasic.dll.config
